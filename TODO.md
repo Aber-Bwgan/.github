@@ -13,3 +13,4 @@
 
 - Shutdown pi while charging
 - Look for birds? And use that as a goal.
+- Add recovery mechanisms in the behaviour tree with grearbox and locking diffs
