@@ -14,3 +14,4 @@
 - Shutdown pi while charging
 - Look for birds? And use that as a goal.
 - Add recovery mechanisms in the behaviour tree with grearbox and locking diffs
+- Manage time of day so that we don't roam around during the night.  Maybe the ESP needs to get its RTC set from the Pi and only wake up the pi during day time?
